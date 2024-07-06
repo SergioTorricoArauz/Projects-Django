@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AdminAccesosConfig(AppConfig):
+class GasolineriaConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'admin_accesos'
+    name = 'gasolineria'
